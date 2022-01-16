@@ -1,0 +1,12 @@
+# Demo binary
+sfml-widgets-demo
+
+# Lib
+*.a
+
+# Compilation files
+*.o
+
+# Code::Blocks
+sfml-widgets.layout
+sfml-widgets.depend

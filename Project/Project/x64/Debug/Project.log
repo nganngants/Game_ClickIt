@@ -1,0 +1,6 @@
+﻿  Game.cpp
+  HomeScreen.cpp
+  Source.cpp
+D:\Studying\Learn SFML\Project\Project\Source.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Project.vcxproj -> D:\Studying\Learn SFML\Project\x64\Debug\Project.exe
